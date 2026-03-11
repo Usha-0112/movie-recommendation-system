@@ -12,3 +12,6 @@ Python
 Machine Learning
 Pandas
 Streamlit
+## Future Work :
+Add user ratings from customer feedbacks
+Deploy on AWS Cloud
